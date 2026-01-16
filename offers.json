@@ -1,9 +1,18 @@
 [
     {
-        "title": "Bloons TD 6",
-        "id": "b27e3b556f1048b9824c7196f32afceb",
-        "description": "The Bloons are back and better than ever! Get ready for a massive 3D tower defense game designed to give you hours and hours of the best strategy gaming available.",
-        "original_price_fmt": "‏6.99 US$",
+        "title": "Styx: Master of Shadows",
+        "id": "ed109adce3c042f792f48d629221ac8b",
+        "description": "انغمس في عالم الظلال واكشف عن ماضيك. STYX:‎ Master of Shadows هي لعبة تسلل يتم فيها تقمص الأدوار (RPG) في عالم سحري يتسم بالغموض.",
+        "original_price_fmt": "‏9.29 US$",
+        "discount_price_fmt": "0",
+        "currency": "USD",
+        "expiry_date": null
+    },
+    {
+        "title": "Styx: Shards of Darkness - Deluxe Edition",
+        "id": "9b99ffa5a53e4317824f4ccb2b6e68d2",
+        "description": "Styx returns in a new stealth adventure! Explore and master huge open environments, sneak past or assassinate new enemies and bosses, and experiment with the new array of lethal abilities and weapons in our goblin assassin's arsenal.",
+        "original_price_fmt": "‏9.29 US$",
         "discount_price_fmt": "0",
         "currency": "USD",
         "expiry_date": null
