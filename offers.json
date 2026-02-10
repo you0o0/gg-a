@@ -1,5 +1,41 @@
 [
     {
+        "title": "Eternal Threads",
+        "id": "921e40c4c69f4d728914ca2a4f0aa407",
+        "description": "Eternal Threads is a single-player, first-person story-driven puzzle game of time manipulation, choice and consequence.",
+        "original_price_fmt": "‏9.29 US$",
+        "discount_price_fmt": "‏1.85 US$",
+        "currency": "USD",
+        "expiry_date": null
+    },
+    {
+        "title": "Ghostrunner 2",
+        "id": "be5600439b434624802764f704755cde",
+        "description": "Ghostrunner 2 لعبة رعب صعبة من منظور الشخص الأول في عالم السايبر بانك بعد نهاية العالم. وتضم كل ما أحبه المعجبون في Ghostrunner بالإضافة إلى قتالات زعماء رائعة وقصة تفاعلية جديدة ومستويات مشوقة بالدراجة النارية ومهارات محسّنة والمزيد من أكشن النينجا الآلية. ",
+        "original_price_fmt": "‏27.99 US$",
+        "discount_price_fmt": "‏5.59 US$",
+        "currency": "USD",
+        "expiry_date": null
+    },
+    {
+        "title": "Castlevania Anniversary Collection",
+        "id": "8f80897c0b6e4e678fed08da169d44be",
+        "description": "Konami's Castlevania Anniversary Collection traces the origins of the historic vampire franchise. Included is a unique eBook with details provided by developers, artists and others inspired by the Castlevania legacy which sheds a fresh light into the world of Castlevania.",
+        "original_price_fmt": "‏10.49 US$",
+        "discount_price_fmt": "‏4.19 US$",
+        "currency": "USD",
+        "expiry_date": null
+    },
+    {
+        "title": "Monument Valley",
+        "id": "f967cff9761c4198b4e972cfd71e40d7",
+        "description": "انطلق في رحلة مغفرة عبر بيئات مستحيلة وألغاز خيالية. جرب لعبة الألغاز التأملية والباعثة على الاسترخاء هذه من خلال التحكم في الآثار وإنشاء مسارات مستمرة التطور لاستكشاف عوالم جديدة سريالية غامضة.",
+        "original_price_fmt": "‏4.99 US$",
+        "discount_price_fmt": "‏1.74 US$",
+        "currency": "USD",
+        "expiry_date": null
+    },
+    {
         "title": "Botany Manor",
         "id": "855a903d4f694353ac20f74321f6e400",
         "description": "Welcome to Botany Manor, a stately home in 19th century England. You play as inhabitant Arabella Greene, a retired botanist. Explore your house and gardens, filled with research, to figure out the ideal habitat of forgotten flora.",
