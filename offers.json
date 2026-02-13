@@ -1,5 +1,14 @@
 [
     {
+        "title": "The Darkside Detective A Fumble in the Dark",
+        "id": "9e3c580751a94c6d8a1b8b08b2e3d21f",
+        "description": "Join Detective McQueen as he puzzles his way through 6 cases, risking life and pixelated limb to solve the macabre mysteries that plague the poor town.",
+        "original_price_fmt": "‏6.99 US$",
+        "discount_price_fmt": "0",
+        "currency": "USD",
+        "expiry_date": null
+    },
+    {
         "title": "Eternal Threads",
         "id": "921e40c4c69f4d728914ca2a4f0aa407",
         "description": "Eternal Threads is a single-player, first-person story-driven puzzle game of time manipulation, choice and consequence.",
@@ -36,19 +45,10 @@
         "expiry_date": null
     },
     {
-        "title": "Botany Manor",
-        "id": "855a903d4f694353ac20f74321f6e400",
-        "description": "Welcome to Botany Manor, a stately home in 19th century England. You play as inhabitant Arabella Greene, a retired botanist. Explore your house and gardens, filled with research, to figure out the ideal habitat of forgotten flora.",
-        "original_price_fmt": "‏11.59 US$",
-        "discount_price_fmt": "0",
-        "currency": "USD",
-        "expiry_date": null
-    },
-    {
-        "title": "Poison Retro Set",
-        "id": "f643a600e99c43cca99d1ca37b41fe33",
-        "description": "Step back in time and forward into battle with the Poison Retro Set, inspired by the electrifying Arcade Season.",
-        "original_price_fmt": "‏12.49 US$",
+        "title": "Nobody Wants to Die",
+        "id": "9da459f7c3984877bd5a12bdc3b6b3af",
+        "description": "انغمر في عالم من الديستوبيا في قلب نيويورك عام 2329. ستلعب بشخصية المحقق \"جيمس كارا\" الذي يخاطر بكل شيء أثناء ملاحقته لقاتل متسلسل يستهدف نخبة المدينة؛ وعليك استخدام التكنولوجيا المتقدمة لتحقيق ذلك في هذه القصة التفاعلية ذات الأجواء السوداوية.",
+        "original_price_fmt": "‏18.99 US$",
         "discount_price_fmt": "0",
         "currency": "USD",
         "expiry_date": null
